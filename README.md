@@ -3,10 +3,6 @@
 This repository presents a comprehensive **deep learning project** developed for the course **“Introduction to Computational Intelligence”** at **Amirkabir University of Technology (Tehran Polytechnic)**.  
 The project includes **three major phases**, each addressing a distinct computer vision problem using **CNNs**, **ResNet architectures**, and **sequence models (LSTM)**.
 
-> **Team Members:**  
-> Amirhossein Asadi — Amirhossein Bagheri — Arvin Jebreili — Maryam Hosseini  
-> **Semester:** Fall 2024  
-
 ---
 
 ## 📘 Project Overview
