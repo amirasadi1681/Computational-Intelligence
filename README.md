@@ -59,10 +59,6 @@ Classify histopathological breast tissue images into **IDC(+)** (cancerous) and 
 
 #### 📈 Confusion Matrix
 ![Breast Cancer Confusion Matrix](docs/figures/breast_confusion_matrix.png)
-
-#### 📉 Loss and Accuracy
-![Breast Cancer Loss/Accuracy](docs/figures/breast_loss_acc.png)
-
 ---
 
 ## 🖼️ Phase 3 — Image Captioning (Flickr8k)
@@ -84,11 +80,14 @@ Generate meaningful captions for images by combining **visual understanding (CNN
 | **Training Loss** | 2.3952 |
 | **Validation Loss** | 3.6134 |
 
+#### 📉 Loss and Accuracy
+![Image Captioning Loss/Accuracy](docs/figures/loss_acc.png)
+
+
 #### 🧩 Example Captions
 ![Image Captioning Example 1](docs/figures/image_caption_1.png)
 ![Image Captioning Example 2](docs/figures/image_caption_2.png)
 ![Image Captioning Example 3](docs/figures/image_caption_3.png)
-![Image Captioning Example 4](docs/figures/image_caption_4.png)
 
 ---
 
